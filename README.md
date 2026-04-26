@@ -1,8 +1,6 @@
 # 👋 Olá, Seja Bem vindo !
 
-📊 Estudante de Análise de Dados
-🤖 Automação com python & IA (Agno/ N8N)
-💻 Desenvolvedor Python em formação
+📊 Estudante de Análise de Dados e Automação com python & IA (Agno/ N8N)
 🎓 Análise e Desenvolvimento de Sistemas
 
 ---
@@ -27,26 +25,29 @@
 ---
 ## 📊 Estatísticas do GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=euler-fenix&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euler-fenix&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Euler"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euler-fenix&layout=compact&theme=tokyonight&hide_border=true&title_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas por Euler"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euler-fenix&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=euler-fenix&bg_color=0d1117&color=c9d1d9&line=22d3ee&point=facc15&area=true&hide_border=true" alt="Gráfico de contribuições de Euler"/>
+</p>
+
 
 ---
 
 ## 📂 Projetos em Destaque
 
+🔹 **Análise de Dados** de Vendas (Excel + Power BI)
+
+🔹 **Projetos de SQL** — MySQL, criação de tabelas, relacionamentos e consultas 
+
+🔹 **Automação com Python** — scripts e estudos voltados para produtividade
+
 🔹 Sistema Wayne Industries (Django)
 
-🔹 Análise de Dados de Vendas (Excel + Power BI)
-
 🔹 Streaming de Filmes (HTML / JavaScript)
+ 
 
----
-
-## 📚 Atualmente Estudando
-
-* Análise de Dados
-* Automação com python & IA
-* Git
-
----
