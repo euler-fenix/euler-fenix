@@ -15,7 +15,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 ## Automaçao
-![Agno](https://img.shields.io/badge/Agno-AI-blue?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-Automation-FF6D00?style=for-the-badge)
 
 ## WEB Backend
@@ -27,7 +26,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euler-fenix&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Euler"/>
-  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euler-fenix&layout=compact&theme=tokyonight&hide_border=true&title_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas por Euler"/>
 </p>
 
