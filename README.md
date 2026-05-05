@@ -43,8 +43,6 @@
 
 🔹 **Projetos de SQL** — MySQL, criação de tabelas, relacionamentos e consultas 
 
-🔹 **Automação com Python** — scripts e estudos voltados para produtividade
-
 🔹 Sistema Wayne Industries (Django)
 
 🔹 Streaming de Filmes (HTML / JavaScript)
